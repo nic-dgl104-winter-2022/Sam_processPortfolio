@@ -84,7 +84,7 @@ but also the things you should avoide doing or which can cause errors as well as
 ```
 There is a lot of information about components but not much about methods and hooks.
 
-###Reflect
+### Reflect
 There were lot of things that I already knew about naming conventions but there were certain things that I wasn't aware of that I now make sure of doing after reading this documnetation like:-
 
 Omit the value of the prop when it is explicitly true.
@@ -99,4 +99,10 @@ My code after reading the style guide.
 ```diff
 <Foo hidden />
 ```
+## Week_3-API Search
+For this weeks reserch I have choosen [Random User Generator](https://randomuser.me/)
 
+This is a free and easy to use service to generate random user data for application testing. When I was conducting my reseach I came across this [blog](https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2) which was based on how to fetch api with React.js. That was when I came across this API ad also started using Postman for pulling up the data. It is a great way to target specific data.You can apply it using npm, ajax as well as postman.The documentation of the API in the above link is very explanatory itself but apart from that there are plenty of other documentation that are very educational. What I liked about the documnetation that it gave proper information on usage, results as well as error handling. It shows how you can to generate multiple users, users of specific gender and nationalities. The only thing that I didn't liked is it only tells you how to call the api using ajax. So if you are not familiar with ajax or you want to call the Api with other method you can't use this documentation. So for me as I wanted to call this api using postman, I had to look at other documentations as well.
+
+### Reflect
+Reflecting on this research and my old projects I don't thik I have done a good job at all. I have neglected documenting my code as I thought they were small projects. But I have done a poor job on comments as well. After the week 2 and week 3 research I acknowledged the fact that commenting and documenting my code is important not only for other to understand it better but also for myself when I get back at it after an interval of time. In future, I will try to document all my project not matter if they are small or big. And adding proper and necessary comments in my code.
