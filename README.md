@@ -37,5 +37,10 @@ Scalar allows users to compile media from a range of sources and juxtaposition i
  *Disadvantages*
  
  - For bigger teams it seems they charge a bit much than they do for small teams.
- -Lack of documentation.
+ - Lack of documentation.
  
+ ### Reflect
+ The only textbook I have used since the beginning of this program is zyBooks. It was convenient and intractive. Not only it provided with loads of information but they also had activites for students to test themselves. But It has some disadvatages too. It was expensive and were only accessible during the semester, so after the semester was over I wasn't able to access them. Beside that I haven't used any textbook most of teachers would provide us the link of some article or open source documentation for information on particular subjects. 
+## Week_2-Style Guide
+
+
